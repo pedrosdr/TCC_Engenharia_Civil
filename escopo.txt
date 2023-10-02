@@ -1,0 +1,37 @@
+Orientando: Pedro Sartori
+Orientador: Profa. Dra. Tamiris Luiza Soares Lanini
+
+Área: Estruturas (talvez estruturas de concreto depois)
+
+Tema: Software para determinação de esforços solicitantes
+
+Título: Verificar
+
+Resumo: Verificar
+
+1. INTRODUÇÃO
+*Utilizar a introdução para mostrar ao leitor a importância deste estudo (contribuição). Deve seguir uma ordem. Terminar com objetivos e justificativa.
+- Iniciar apresentando sobre a determinação de esforços em estruturas (o que é, qual a aplicação etc.);
+- Discutir sobre estruturas isostáticas e hiperestáticas;
+- Discutir sobre a dificuldade (e o quanto é trabalhosa) a determinação de esforços em estruturas, especialmente pelo método da força. Ressaltar a maior dificuldade ainda que existe no caso de um maior número de elementos, como em pórticos, maior número de pavimentos
+ - Diante de tais considerações este estudo tem como objetivo o desenvolvimento de um software educacional que ...
+- Tal estudo visa contribuir... (justificar)
+
+2. CAPÍTULOS DE REVISÃO
+- Mecânica das Estruturas: carregamentos, reação, apoios existentes, etc.
+- Determinação de esforços em estruturas isostáticas
+- Determinação de esforços em estruturas hiperestáticas
+- Um capítulo para explanar a linguagem utilizada, software (apresentar de modo básico a etapa de programação).
+
+3. MATERIAL E MÉTODOS
+Passo a passo de como foi realizado o estudo:
+Linguagem escolhida
+Aspectos de implementação
+Parâmetros definidos
+(aqui você pode colocar tudo o que fez pra conseguir tornar o programa utilizável: como foi feita a interface, rotação, inserção para que o usuário possa escolher os eixos, como é feita a escolha das vinculações, etc).
+
+4. RESULTADOS E DISCUSSÃO
+Apresentar o software, interface final e aplicações.
+
+5. CONCLUSÕES
+REFERÊNCIAS BIBLIOGRÁFICAS

@@ -1,0 +1,12 @@
+# Livros
+bib
+
+# CAD
+cad/*.bak
+cad/*.original
+
+# Word
+~$*
+
+# Outros
+DISSERTAÇÃO_SoftwareAnáliseDimensionamento.PDF
