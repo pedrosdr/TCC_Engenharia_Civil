@@ -11,3 +11,7 @@ cad/*.original
 
 # Outros
 DISSERTAÇÃO_SoftwareAnáliseDimensionamento.PDF
+*.png
+*.jpg
+*.webm
+*.mp4
